@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.44 Shepherd</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211002Z" creationid="Никита Потапов" creationdate="20221024T211002Z">
+        <seg>.44 "Пастух"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>12 Gauge</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211008Z" creationid="Никита Потапов" creationdate="20221024T211008Z">
+        <seg>Обрез двухзарядный</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AR-40 Xtnd</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211000Z" creationid="Никита Потапов" creationdate="20221024T211000Z">
+        <seg>AR-40 удлинен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AS12 Riot</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211005Z" creationid="Никита Потапов" creationdate="20221024T211005Z">
+        <seg>AS12 "Бунтарь"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bang bang! Point and shoot.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211050Z" creationid="Никита Потапов" creationdate="20221024T211027Z">
+        <seg>Твой любимый.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Baseball Bat</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211009Z" creationid="Никита Потапов" creationdate="20221024T211009Z">
+        <seg>Бейсбольная бита</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHOP SHOP</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T210630Z" creationid="Никита Потапов" creationdate="20221024T210630Z">
+        <seg>CHOP SHOP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camera</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211009Z" creationid="Никита Потапов" creationdate="20221024T211009Z">
+        <seg>Камера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cellphone</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211010Z" creationid="Никита Потапов" creationdate="20221024T211010Z">
+        <seg>Сотовый телефон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Charge Launcher</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T210952Z" creationid="Никита Потапов" creationdate="20221024T210952Z">
+        <seg>Гранатомет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crowbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211019Z" creationid="Никита Потапов" creationdate="20221024T211019Z">
+        <seg>Монтировка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GDHC .50</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T210958Z" creationid="Никита Потапов" creationdate="20221024T210953Z">
+        <seg>GDHC .50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Good job takin' out the Carnales.  With them gone we were able to take Athos Bay, but we can't gain any more ground until you build up our rep.\n8400</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T210708Z" creationid="Никита Потапов" creationdate="20221024T210708Z">
+        <seg>Good job takin' out the Carnales.  With them gone we were able to take Athos Bay, but we can't gain any more ground until you build up our rep.\n8400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hand Grenade</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211012Z" creationid="Никита Потапов" creationdate="20221024T211012Z">
+        <seg>Ручная граната</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>K6 Krukov</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T210949Z" creationid="Никита Потапов" creationdate="20221024T210933Z">
+        <seg>К6 "Крюков"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Knife</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211013Z" creationid="Никита Потапов" creationdate="20221024T211013Z">
+        <seg>Нож</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MELEE</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211020Z" creationid="Никита Потапов" creationdate="20221024T211020Z">
+        <seg>ОРУЖИЕ БЛИЖНЕГО БОЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>McManus</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211018Z" creationid="Никита Потапов" creationdate="20221024T211018Z">
+        <seg>МакМанус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Molotov Cocktail</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211013Z" creationid="Никита Потапов" creationdate="20221024T211013Z">
+        <seg>Коктейль Молотова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NR4</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T210955Z" creationid="Никита Потапов" creationdate="20221024T210955Z">
+        <seg>NR4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nightstick</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211014Z" creationid="Никита Потапов" creationdate="20221024T211014Z">
+        <seg>Полицейская дубинка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PCP</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211003Z" creationid="Никита Потапов" creationdate="20221024T211003Z">
+        <seg>Пневматическая винтовка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PISTOL</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211021Z" creationid="Никита Потапов" creationdate="20221024T211021Z">
+        <seg>ПИСТОЛЕТЫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pimp Slap</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211016Z" creationid="Никита Потапов" creationdate="20221024T211016Z">
+        <seg>Перчатка сутенера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pipe Bomb</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211017Z" creationid="Никита Потапов" creationdate="20221024T211017Z">
+        <seg>Кустарная бомба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RIFLE</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211022Z" creationid="Никита Потапов" creationdate="20221024T211022Z">
+        <seg>ВИНТОВКИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RPG Launcher</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211005Z" creationid="Никита Потапов" creationdate="20221024T211005Z">
+        <seg>РПГ-7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SHOTGUN</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211022Z" creationid="Никита Потапов" creationdate="20221024T211022Z">
+        <seg>ДРОБОВИКИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SKR-7 Spree</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211001Z" creationid="Никита Потапов" creationdate="20221024T211001Z">
+        <seg>SKR-7 "Спри"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMG</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211024Z" creationid="Никита Потапов" creationdate="20221024T211024Z">
+        <seg>ПИСТОЛЕТЫ-ПУЛЕМЕТЫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPECIAL</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211023Z" creationid="Никита Потапов" creationdate="20221024T211023Z">
+        <seg>ОСОБОЕ ОРУЖИЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stun Gun</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211006Z" creationid="Никита Потапов" creationdate="20221024T211006Z">
+        <seg>Тазер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swing, battah battah battah!</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211029Z" creationid="Никита Потапов" creationdate="20221024T211029Z">
+        <seg>Для тех, кто делает людям больно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T3K Urban</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211007Z" creationid="Никита Потапов" creationdate="20221024T211007Z">
+        <seg>T3K "Урбан"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THROWN</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211025Z" creationid="Никита Потапов" creationdate="20221024T211025Z">
+        <seg>МЕТАТЕЛЬНОЕ ОРУЖИЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tombstone</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T211004Z" creationid="Никита Потапов" creationdate="20221024T211004Z">
+        <seg>"Могильщик"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VICE 9</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Никита Потапов" changedate="20221024T210934Z" creationid="Никита Потапов" creationdate="20221024T210934Z">
+        <seg>VICE 9</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
