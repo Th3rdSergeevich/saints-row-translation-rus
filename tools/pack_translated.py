@@ -7,8 +7,8 @@ MID_TEXT = ["BINTEXT",""]
 
 for TEXT in TEXT_DIR:
     with open(os.path.join("..","target",TEXT), 'r', encoding="utf-8") as txt:
-        print(TEXT)
         BLOCK = txt.read().splitlines()
+        print(TEXT, len(BLOCK))
         BLOCK = [i for i in BLOCK if i[0] != "#" and len(i) != 0]
         MID_TEXT.extend(BLOCK)
 MID_TEXT.extend(["          7356"])
