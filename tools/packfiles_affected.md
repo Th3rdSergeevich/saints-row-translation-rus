@@ -2,5 +2,5 @@
 
 | Название | Что изменено | Примечание |
 | --- | --- | --- |
-| misc2.vpp_xbox2 | Текст US_Strings.txt, шрифты px_thin, px_giant (вместе с outline) | |
+| misc2.vpp_xbox2 | Текст US_Strings.txt, шрифты px_thin, px_giant (вместе с outline), список катсцен .xtbl | |
 | pegfiles.vpp_xbox2 | Текстуры - заголовок на главном экране, тайтлы банд для катсцен | interface-loading-ui берется не из pegfiles, а из always_loaded. Попытки изменения always_loaded приводят к графическим артефактам и прочим глюкам. |
