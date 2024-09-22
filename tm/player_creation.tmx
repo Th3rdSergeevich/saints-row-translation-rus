@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Selecting a new preset will change any other\nchanges that you have made already!</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Выбор новой предустановки изменит\nвсе заранее сделанные вами детали!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you want to save your changes\nbefore exiting?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Вы хотите сохранить изменения\nперед выходом?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to return\nto the Main Menu?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Вы действительно хотите вернуться\nв главное меню?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>ADVANCED</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>ДОПОЛНИТЕЛЬНЫЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>BASIC</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>ОСНОВНЫЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hair Length</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Длина волос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PRESETS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>ПРЕДУСТАНОВКИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>HEAD</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>ГОЛОВА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>EYES</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>ГЛАЗА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>HAIR</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>ВОЛОСЫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>BODY</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>ТЕЛО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SKIN</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>КОЖА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Asian</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Азиат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>African American</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Афро-американец</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hispanic</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Латинос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Caucasian</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Европеец</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>RANDOMIZE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>СЛУЧАЙНО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PLAYER CREATION</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>МЕНЮ СОЗДАНИЯ ИГРОКА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>BODY</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>ТЕЛО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>EXPORT</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>ЭКСПОРТ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>HEAD</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>ГОЛОВА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>MORPHS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>МОРФЫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PRESETS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>ПРЕДУСТАНОВКИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SKIN</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>КОЖА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>QUIT</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>ВЫЙТИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Body</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Тело</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bridge Curve</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Переносица - кривизна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bridge Width</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Переносица - ширина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Brow Angle</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Брови - угол</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Brow Depth</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Брови - глубина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Brow Height</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Брови - высота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Brow</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Брови</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cheek Fatness</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Щеки - полнота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cheekbone Height</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Скулы - высота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cheekbone Size</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Скулы - размер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cheeks</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Щеки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Chin Height</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Подбородок - высота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Chin Length</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Подбородок - длина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Chin Shape</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Подбородок - ширина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Chin Width</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Подбородок ширина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Double Chin</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Двойной подбородок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ear Curve</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Уши - кривизна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ear Depth</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Уши - глубина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ear Elevation</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Уши - подъем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ear Height</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Уши высота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ear Inside</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Уши - раковина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ear Lobe</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Уши - мочка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ear Longitude</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Уши - длина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ear Pitch</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Уши - вертикальная ось</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ear Roll</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Уши - продольная ось</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ear Tip</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Уши - кончик</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ear Width</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Уши - ширина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ear Yaw</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Уши - поперечная ось</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ears</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Уши</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Eye Depth</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Глаза - глубина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Eye Height</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Глаза - высота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Eye Separation</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Глаза - расстояние</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Eye Size</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Глаза - размер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Eyelid Look</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Глазные веки - вид</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Eyelid Shape</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Глазные веки - форма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Eyelid Slant</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Глазные веки - щель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Eyes</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Глаза</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Face Depth</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Лицо - глубина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Face Height</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Лицо - высота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Face Scaling</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Лицо - масштаб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Face Width</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Лицо - ширина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fat</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Жир</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Forehead Shape</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Лоб - форма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hair</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Волосы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Jaw Width</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Челюсть - ширина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Chin And Jaw</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Подбородок/челюсть</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Jowls</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Жвалы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lower Lip Length</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Нижняя губа - длина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lower Lip Notch</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Нижняя губа - засечка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lower Lip Shape</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Нижняя губа - форма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lower Lip Size</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Нижняя губа - размер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Luminosity</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Цвет кожи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mouth Angle</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Рот - угол</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mouth Bite</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Рот - прикус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mouth Corners</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Рот - уголки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mouth Depth</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Рот - глубина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mouth Height</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Рот - высота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mouth Sides</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Рот - бока</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mouth Size</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Рот - размер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mouth</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Рот</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Muscle</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Мускулатура</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nose Depth</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Нос - глубина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nose Height</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Нос - высота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nose Length</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Нос - длина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nose Pitch</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Нос - вертикальная ось</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nose Roll</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Нос - продольная ось</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nose Size</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Нос - размер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nose</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Нос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nose Tip</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Нос - кончик</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nose Width</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Нос - ширина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nose Yaw</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Нос - поперечная ось</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nostril Height</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Ноздри - высота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nostril Size</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Ноздри - размер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Saturation</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Насыщенность</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Skin</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Кожа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Skull Size</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Череп - размер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Upper Lip Length</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Верхняя губа - длина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Upper Lip Notch</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Верхняя губа - засечка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Upper Lip Shape</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Верхняя губа - форма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Upper Lip Size</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213023Z">
+        <seg>Верхняя губа - размер</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

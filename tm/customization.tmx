@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Belt</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пояс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Belt Buckle</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пояс - пряжка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Belt Flap</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пояс - хвост</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Eyes</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Глаза</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>FACE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>ЛИЦО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Finger Left Index</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Палец - левый указ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Finger Left Middle</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Палец - левый средн.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Finger Right Index</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Палец - правый указ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Finger Right Middle</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Палец - правый средн.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hair</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Волосы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Beard</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Борода</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Eyebrows</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Брови</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Head</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Голова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mustache</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Усы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sideburns</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Бакенбарды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hats</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Шляпы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left Hand</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Левая рука</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Left Wrist</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Левое запястье</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Short Medallions</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Медальоны - короткие</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Long Medallions</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Медальоны - длинные</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medium Medallions</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Медальоны - средние</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Short Necklaces</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Цепочки - короткие</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Long Necklaces</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Цепочки - длинные</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medium Necklaces</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Цепочки - средние</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not For Demo</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Не для демо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pendants</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Кулоны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Left Ear Lobe</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - мочка левого уха</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Left Ear Middle</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - середина левого уха</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Left Ear Tip</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - кончик левого уха</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Left Eyebrow</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - левая бровь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Lip Bottom Left</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - нижняя губа слева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Lip Bottom Right</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - нижняя губа справа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Lip Top Left</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - верхняя губа слева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Lip Top Right</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - верхняя губа справа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Nose Middle</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - нос посередине</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Nostril Left</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - левая ноздря</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Nostril Right</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - правая ноздря</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Right Ear Lobe</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - мочка правого уха</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Right Ear Middle</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - середина правого уха</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Right Ear Tip</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - кончик правого уха</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Right Eyebrow</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - правая бровь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right Hand</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Правая рука</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Right Wrist</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Правое запястье</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Coats</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Куртки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Eyewear</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Очки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Headwear</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Головные уборы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Over Shirts</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Рубашки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pants</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Штаны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Shoes</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Ботинки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Skin</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Кожа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Socks</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Носки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Suspenders</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Подтяжки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tattoo</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Тату</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tattoo Back</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Тату - сзади</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tattoo Front</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Тату - спереди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tattoo Left Forearm</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Тату - левое предплечье</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tattoo Left Leg</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Тату - левая нога</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tattoo Left Shoulder</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Тату - левое плечо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tattoo Right Forearm</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Тату - правое предплечье</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tattoo Right Leg</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Тату - правая нога</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tattoo Right Shoulder</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Тату - правое плечо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tie</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Галстук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Undershirts</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Футболки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Underwear</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Трусы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Special T-Shirts</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Особые футболки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rings</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Кольца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Ear</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - ухо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Lip</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - губа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Eyebrow</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - бровь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Piercing Nose</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - нос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PIERCINGS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>ПИРСИНГ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medallions</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Медальоны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>WRISTS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>НАРУКАВНИКИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bald</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Лысый</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>54 Diamond Ring</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Кольцо с бриллиантом 54 карат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>9 Diamond Ring</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Кольцо с бриллиантом 9 карат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Africa Medallion</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Медальон "Африка"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Afro</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Афро</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Alternating</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Меняющийся</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ankh Pendant</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Кулон "Анкх"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>???mart Baggy Canvas Shorts</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Мешковатые холщовые шорты от ???mart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>akustics Baggy Chino Pants</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Мешковатые х/бшные штаны от akustics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Baggy Jean Shorts</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Мешковатые джин-шорты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Baggy Jeans</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Мешковатые джинсы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ball</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Шар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bandana</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Бандана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Baseball Cap</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Бейсбольная кепка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Baseball Jersey</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Бейсбольная майка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Basic Belt</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Обычный пояс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Basic Belts Style A</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Обычный пояс (стиль А)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Basic Buckle</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Обычная пряжка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Basketball Jersey</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Баскетбольная майка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Basketball Shoes</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Баскетбольные кеды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Basketball Shorts</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Баскетбольные шорты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Parted, Middle</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>С пробором посередине</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Boxers</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Боксерки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Braided</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>В косичку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Braided Belt</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Плетеный пояс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Braided Belt</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Плетеный пояс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Geo</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Гео</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lincoln</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Линкольн</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Amish</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Амиш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Buttoned Vest</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Жилет на кнопках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Section9 Canvas Pants</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Холщовые штаны от Section9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Canvas Shoes</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Холщовые ботинки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Stalker Cargo Pants</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Брюки-карго от Stalker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Stalker Cargo Shorts</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Шорты-карго от Stalker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Casual Shoes</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Повседневные ботинки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Celtic Cross Pendant</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Кулон "Кельтский крест"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Chin Curtain</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Щетина-занавес</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>akustics Chino Pants</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Х/бшные штаны от akustics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>akustics Chino Shorts</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Х/бшные шорты от akustics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Circular Watch</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Круглые часы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Clock Medallion</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Медальон-часы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Collared Pullover</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пулловер с воротником</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Combed Back</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Зачес назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Combed Back And Long</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Зачес назад (длинн.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Combed Forward</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Зачес вперед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Corn Rows</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Рожки кукурузы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cotton Wrist Band</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Хлопковый нарукавник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cowboy Boots</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Ковбойские ботинки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cowboy Hat</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Ковбойская шляпа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Crown Belt</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пояс с короной</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Frohawk, Fuzzy Sides</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Афроирокез (с баками)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Frohawk, Shaved</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Афроирокез (сбритый)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Curly Mohawk, Fuzzy Sides</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Волнистый ирокез (с баками)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Frohawk, Striped</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Афроирокез (полосками)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Denim Jacket</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Джинсовый жилет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dog Tag Pendant</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Кулон "Жетон"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dawgy Style</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Под Снупп Догга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dollar Sign Medallion</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Медальон "Знак доллара"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dollar Sign Ring</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Кольцо "Знак доллара"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Doo Rag</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Тряпка на голову</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Red Square Double Breasted Coat</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Костюм с 2 нагрудными карманами от Red Square</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rasta Tams</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Шапка растамана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dreadlocks</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Дредлоки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Driving Cap</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Шоферская кепка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Elastic Suspenders</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Эластичные подтяжки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Eyebrows</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Брови</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thin</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Тонкие</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Horns</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Рога</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bushy</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Густые</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thick</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Толстые</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Overgrown</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Переросшие</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Жирные</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Eyes</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Глаза</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fedora</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Федора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Figure 8</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Фигура-восьмерка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fishing Cap</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Рыболовецкая кепка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Five O'clock Shadow</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Утренняя щетина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flag Belt</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пояс с флагом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flag Belt</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пояс с флагом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flat</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Флэт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flat Chain Bracelet</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Браслет из плоской цепи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flat Top, Lightning</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Флэт-топ (узор "Молния")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flat Top, Laser Lines</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Флэт-топ (узор "Лазер")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Flat Top, Short Sides</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Флэт-топ (с баками)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fluffy Collared Jacket</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Меховой жилет с воротником</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Football Jersey</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Футбольная футболка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fuzz</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Месиво</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Generic Sunglasses</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Обычные солнечные очки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Grenade Medallion</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Медальон "Граната"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hemp Leaf Medallion</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Медальон "Конопля"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Viral Hensley Shirt</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Виральная водолазка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hiking Boots</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Ботинки для похода в горы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>XX/XY Hoodie</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Худи XX/XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hoop Piercing</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Пирсинг - кольцо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Italian Horn Pendant</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Кулон "Итальянский рог"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Jean Shorts</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Джин-шорты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Knit Cap</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212941Z">
+        <seg>Вязанная шапочка</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Time Set Midnight</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Время на полночь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Time Set Noon</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Время на полдень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Drop Ferdelance</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Ferdelance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give AR15</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный AR15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Cash</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявные деньги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No Cop Notoriety</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Нулевая дурная слава у копов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No Gang Notoriety</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Нулевая дурная слава у банд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Infinite Sprint</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Бесконечный спринт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Full Health</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Здоровье на максимум</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Player Pratfalls</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Падучая у игрока</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Milk Bones</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Скелет в жижу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Car Mass Hole</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Месиво из машин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Repair Car</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Инстаремонт машины</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Wrath Of God</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Гнев Божий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Infinite Ammo</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Бесконечные патроны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Evil Cars</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Злые машины</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Evil Cars 2</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Злые машины возвращаются</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Riot Mode</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Режим бунта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Jackrabbit</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Jackrabbit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give AR40</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный AR40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give K6</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный K6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Gdhc</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный GDHC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give NR4</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный NR4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give 44</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный 44</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Tombstone</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный "Гробовщик"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give T3K</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный T3K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give VICE9</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный VICE9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give AS12</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный AS12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give 12 Gauge</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный обрез</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give SKR7</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный SKR7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give McManus</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный МакМанус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Baseball Bat</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявная бита</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Knife</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный нож</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Molotov</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Молотов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Grenade</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявная граната</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Nightstick</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявная дубинка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Pipebomb</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявная бомба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give RPG</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный РПГ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Crowbar</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявная монтировка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Pimp Cane</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявная трость сутенера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Mockingbird</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Mockingbird</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Nelson</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Nelson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Venom Classic</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Venom Classic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give The Vegas</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный The Vegas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Five-0</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Five-0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Voxel</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Voxel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Zircon</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Zircon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Zimos</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Zimos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Destiny</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявная Destiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Halberd</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Halberd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Ant</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Slingshot</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Slingshot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Baron</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Baron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Attrazione</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Attrazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Ferdelance</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Ferdelance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Zenith</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Zenith</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Vortex</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Vortex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Rattler</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Rattler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Stilletto</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Stilletto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Hammerhead</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Hammerhead</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Bootlegger</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Bootlegger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Lafuerza</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Lafuerza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Raycaster</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Raycaster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Venom</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Venom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Cosmos</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Cosmos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Gunslinger</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Gunslinger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Hollywood</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Hollywood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Justice</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Justice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Interest</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Interest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Compton</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Compton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Zomkah</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Zomkah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Ricochet</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Ricochet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Eiswolf</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Eiswolf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Socialite</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Socialite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Shogun</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Shogun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Capshaw</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Capshaw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Cavallaro</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Cavallaro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Taxi</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявное Taxi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Westbury</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Westbury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Hannibal</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Hannibal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Ambulance</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Ambulance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Backhoe</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Backhoe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Bagboy</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Bagboy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Bulldozer</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Bulldozer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Cheetah</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Cheetah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Delivery Truck</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Delivery Truck</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Ruckus</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Ruckus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Rampage</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Rampage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Forklift</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Forklift</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Reaper</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Reaper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Status Quo</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Status Quo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give The Job</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный The Job</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Quota</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявная Quota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Aqua</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявная Aqua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Nordberg</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Nordberg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Traxxmaster</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Traxxmaster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give FBI</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный FBI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Mag</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Mag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Bulldog</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Bulldog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Quasar</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Quasar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Nightingale</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Nightingale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Titan</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Titan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Betsy</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявная Betsy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Stilwater Municipal</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Stilwater Municipal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Newman</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Newman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Mule</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Mule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Varsity</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Varsity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Thorogood</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Thorogood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Peterliner</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Peterliner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Goliath</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Goliath</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Peacekeeper</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Peacekeeper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give NRGV8</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный NRGV8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Anchor</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Anchor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Komodo</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Komodo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give Keystone</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>Халявный Keystone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>GameStop</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T212753Z">
+        <seg>СтопИгра</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

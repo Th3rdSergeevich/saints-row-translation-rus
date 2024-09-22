@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>purchase a new car</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>купить новую машину</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>visit the car mechanic</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>заехать к автомеханику</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>purchase clothing</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>купить одежду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>access the wardrobe</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>открыть гардероб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>access the weapon cache</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>открыть тайник с оружием</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>enter the garage</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>войти в гараж</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>get a haircut</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>сменить прическу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>purchase jewelry</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>купить бижутерию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>purchase items</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>купить предметы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>take out a loan of %s</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>взять %s в долг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>return %s to the loan office</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>вернуть %s кредитору</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>purchase music</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>купить музыку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>visit the plastic surgeon</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>посетить пластического хирурга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>get a tattoo</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>набить тату</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>visit the theater</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>зайти в кинотеатр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>purchase weapons</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>купить оружие</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>request healing</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>запросить первую помощь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You do not have enough money to purchase\n"%s."</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>У вас недостаточно денег, чтобы купить предмет:\n"%s."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to purchase\n"%s?"</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите купить предмет:\n"%s?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PURCHASING</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ПОКУПКА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>INSUFFICIENT FUNDS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>НЕДОСТАТОЧНО СРЕДСТВ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>WITHDRAW</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ВОЗВРАТ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>COMPACT</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>КОМПАКТ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>EXOTIC</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ЭКЗОТИКА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>LUXURY</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>КЛАСС ЛЮКС</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SEDAN</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>СЕДАН</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SUV</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>КРОССОВЕР</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>TRUCK</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ГРУЗОВИК</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You do not have enough money to purchase "%s."</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>У вас недостаточно денег, чтобы купить машину:\n"%s." "%s."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to purchase a "%s" for %s?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите купить машину "%s" за %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You don't have enough money to buy forgiveness!  You need %s.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>У вас недостаточно денег на получение прощения!  Вам нужно %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SELECT COLOR</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ВЫБЕРИТЕ ЦВЕТ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You cannot customize your car unless it is fully repaired\nYou don't have enough money to repair your car.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы не можете кастомизировать машину, пока не отремонтируете её\nУ вас недостаточно денег на ремонт машины.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>BODY MODS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>КУЗОВНЫЕ РАБОТЫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>COLORS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ЦВЕТА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PERFORMANCE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ПРОИЗВОДИТЕЛЬНОСТЬ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>WHEELS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>КОЛЕСА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to disown this car?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите избавиться от этой машины?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You don't have enough money to repair this car.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>У вас недостаточно денег на ремонт вашей машины.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>RIM JOBS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>RIM JOBS (АВТОСАЛОН)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>MECHANIC GARAGE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ГАРАЖ АВТОМЕХАНИКА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>GARAGE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ГАРАЖ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No Cars In The Garage</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Нет машин в гараже</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>REPAIR</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ПОЧИНКА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you want to pay %s?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите заплатить %s за ремонт?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You cannot customize your car unless it is fully repaired.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы не можете кастомизировать машину, пока не отремонтируете её полностью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to repair this car?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите отремонтировать свою машину?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You cannot carry any more items.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы не можете нести собой больше предметов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>BROWN BAGGERS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>BROWN BAGGERS (АЛКОМАРКЕТ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>LIQUORS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>НАПИТКИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>DRUGS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ТОВАРЫ ДЛЯ КУРЕНИЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>TRACK INFO</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ИНФ. О ТРЕКЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>LOCKED</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>НЕДОСТУПНО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SCRATCH THAT</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>SCRATCH THAT (МУЗ. МАГАЗИН)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No Tracks Available</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Нет доступных треков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Track: %s\nArtist: %s</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Трек: %s\nАртист: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>TRACK INFO</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ИНФ. О ТРЕКЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This track is currently locked.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Сейчас трек не доступен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unknown</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Неизв.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mission #%d</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Миссия #%d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>MISSIONS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Миссии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>MOVIES</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Ролики</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Нет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THE BIG PICTURE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>THE BIG PICTURE (КИНОТЕАТР)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to take a "%s?"</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите взять "%s?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to take "%s" ammo?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите взять патроны для "%s"?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can only hold one\n"%s."</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы можете взять только один предмет:\n"%s."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>FRIENDLY FIRE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>FRIENDLY FIRE (ОРУЖЕЙНЫЙ МАГАЗИН)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>WEAPON CACHE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ТАЙНИК С ОРУЖИЕМ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>BASIC</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>СТАНДАРТНЫЙ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>ADVANCED</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ПРОДВИНУТЫЙ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>DOWNLOADED</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>СКАЧАНО ИЗ СЕТИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can't take any more of the following item\nfrom your crib: "%s."</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы не можете забрать еще такие предметы\nиз своей хаты: "%s."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can't take any more ammo for the following item\nfrom your crib: "%s."</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы не можете забрать еще аммуниции под следующий предмет\nиз своей хаты: "%s."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can only hold %d\nof the following item: "%s."</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы можете взять с собой только %d\nтаких предметов: "%s."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can't hold any more ammo\nfor the following item: "%s."</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы не можете взять еще аммуниции\nпод следующий предмет: "%s."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OWNED</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>КУПЛЕНО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>save</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>сохраниться</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you want to save your changes?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите сохранить свои изменения?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Purchase Tattoos</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Купить тату</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>CANCEL</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ОТМЕНА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>QUIT WITHOUT SAVING</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ВЫЙТИ БЕЗ СОХРАНЕНИЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SAVE AND QUIT</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>СОХРАНИТЬСЯ И ВЫЙТИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>BODY</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ТЕЛО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to remove the tattoo from your %s and save?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите убрать тату с %s и сохранить изменения?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to remove the tattoo from your %s?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите убрать тату с %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>FREE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>БЕСПЛАТНО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>INVENTORY EMPTY</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ИНВЕНТАРЬ ПУСТ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There is nothing left to purchase!</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Здесь больше нечего покупать!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>ACTIVITIES</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ШАБАШКИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can't visit a theater during a mission.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы не можете посещать кинотеатр во время миссии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>STORY</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>СЮЖЕТНЫЕ СЦЕНЫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>RETRIEVE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ПОЛУЧИТЬ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to retrieve this car?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите получить эту машину?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlocked</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Разблокировано</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>BROWSE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ПРОСМОТР</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>CUSTOMIZATION BROWSER</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>КАСТОМИЗАЦИЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Style</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Стиль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Wear</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Надеть</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No palette selection available.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Нет доступных палитр.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Нет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No choices for this category.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Нет выбора для данной категории.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unknown</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Неизв.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PLAY CREDITS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ВКЛЮЧИТЬ ТИТРЫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PLAY CUTSCENE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ЗАПУСТИТЬ КАТСЦЕНУ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PLAY MISSION</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ПЕРЕПРОЙТИ МИССИЮ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PLAY MOVIE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ВКЛЮЧИТЬ РОЛИК</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>%s (ADVANCED)</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>%s (ПРОДВ.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Color</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Цвет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Paint Type</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Тип краски</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Price</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Цена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Free</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Бесплатно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>FOOD</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ЕДА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You cannot carry any more food.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы не можете брать больше еды с собой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>CLASSIC</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>КЛАССИЧЕСКИЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SPORTS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>СПОРТКАРЫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>MUSCLE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>МАСЛКАРЫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>VAN</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ФУРГОНЫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>MINIVAN</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>МИНИФУРГОНЫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>MISCELLANEOUS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ПРОЧЕЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Purchased</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Куплено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You have repaired your vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы починили свой транспорт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Current Ammo</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Текущая аммуниция</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Purchase Clothing</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Купить одежду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>purchase food</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>купить еды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Сзади</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Front</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Спереди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>L Shoulder</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>На левом плече</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>R Shoulder</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>На правом плече</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>L Forearm</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>На левой руке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>R Forearm</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>На правой руке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>L Leg</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>На левой ноге</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>R Leg</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>На правой ноге</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Return to Main Menu</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вернуться в главное меню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You do not have enough space in your garage for %s.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>У вас недостаточно места в гараже для %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PREVIEW UNAVAILABLE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ПРЕДПРОСМОТР НЕДОСТУПЕН</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>UNLOCKED</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>РАЗБЛОКИРОВАНО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Something is blocking your path.  Move it before you use the theater.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Что-то мешает вам пройти. Сдвиньте это, прежде чем использовать кинотеатр.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>E3 Trailer</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Трейлер E3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mayhem</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Хаос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave Sloppy Seconds?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите покинуть Sloppy Seconds?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave Rim Jobs?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите покинуть Rim Jobs?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave Brown Baggers?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите покинуть Brown Baggers?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave Scratch That?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите покинуть Scratch That?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave player creation?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Выйти из режима создания игрока и начать игру?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave Image As Designed?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите покинуть Image As Designed?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave Rusty's Needle?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите покинуть Rusty's Needle?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave The Big Picture?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите покинуть The Big Picture?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave the wardrobe?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите покинуть гардероб?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave Friendly Fire?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите покинуть Friendly Fire?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave the weapon cache?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите покинуть тайник с оружием?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave the Activity level selection?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите покинуть меню выбора уровня шабашки?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave the chop shop?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите покинуть авторазделочную?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave the train?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите покинуть трамвай?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave the taxi?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите покинуть такси?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to purchase "%s" for %s?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите купить "%s" за %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to replace "%s" with "%s?"</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите заменить "%s" на "%s?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to replace "%s" with "%s" for %s?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите заменить "%s" на "%s" за %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to purchase the "%s" for %s?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите купить "%s" за %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to take "%s" from your crib?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите забрать "%s" из вашей хаты?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to purchase a(n) "%s" cut?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите купить стрижку "%s"?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to purchase a(n) "%s" tattoo on the %s for %s?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите купить тату "%s" на часть тела: %s за %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Selecting a new preset will change any other changes that you have made already!</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Выбор новой предустановки изменит все заранее сделанные вами детали!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You do not have enough money to purchase a(n) "%s" on the %s.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>У вас недостаточно денег, чтобы купить тату "%s" на часть тела: %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to purchase this ride for %s?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите заплатить %s за такси?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>HIP-HOP</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ХИП-ХОП</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>METAL</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>МЕТАЛ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>DANCE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ТАНЦЕВАЛЬНАЯ МУЗЫКА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Foreign Power</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Foreign Power (Магазин иномарок)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Novin Used Cars</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Novin Used Cars (Магазин б/у авто)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>ELECTRONICA</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ЭЛЕКТРОНИКА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>CLASSICAL</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>КЛАССИЧЕСКАЯ МУЗЫКА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>EASY LISTENING</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>РЕЛАКС-МУЗЫКА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>REGGAE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>РЕГГИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>ROCK</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>РОК</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>DOWNLOADED</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>СКАЧАННАЯ МУЗЫКА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>RINGS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>КОЛЬЦА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>NECKLACES</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ОЖЕРЕЛЬЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>HEAD</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ГОЛОВА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>LOWER BODY</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ВЕРХН. ЧАСТЬ ТЕЛА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>UPPER BODY</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>НИЖН. ЧАСТЬ ТЕЛА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>UNLOCKABLE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>РАЗБЛОКИРУЕМАЯ МУЗЫКА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to purchase "%s" for %s?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите купить "%s" за %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to take "%s" from your crib?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите взять "%s" из своей хаты?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to replace "%s" with "%s"?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите заменить "%s" на "%s?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to replace "%s" with "%s" for %s?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите заменить "%s" на "%s" за %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to purchase this ride for %s?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите взять билет на трамвай за %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave Freckle Bitch's?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите покинуть Freckle Bitch's?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you want to save your changes\nbefore exiting?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите сохранить свои изменения\nперед выходом?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to purchase a "%s" for %s?\n(Your previous purchase will be sent to your garage.)</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите купить машину "%s" за %s?\n(Ваша предыдущая покупка будет доставлена в ваш гараж.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you wish to purchase and save a "%s" for %s?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы хотите купить и оставить "%s" за %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The current storage device was removed. Please select\na new storage device to continue with saving or loading.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Текущее Устройство хранения удалено. Пожалуйста, выберите\nновое устройство, чтобы возобновить сохранение/загрузку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SLOPPY SECONDS</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>SLOPPY SECONDS (СЕКОНД-ХЭНД)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Preview unavailable</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Предпросмотр недоступен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PLAYER CUSTOMIZATION</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>МЕНЮ РЕДАКТИРОВАНИЯ ИГРОКА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hair Length</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Длина волос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do It Up</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Do It Up (Парикмахерская)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Shear Intensity</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Shear Intensity (Парикмахерская)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>IMAGE AS DESIGNED</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>IMAGE AS DESIGNED (ПЛАСТ. ХИРУРГИЯ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>RUSTY'S NEEDLE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>RUSTY'S NEEDLE (ТАТУ-САЛОН)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>WEAR</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>НАДЕТЬ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Пусто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>WARDROBE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>ГАРДЕРОБ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You do not have enough money\nto purchase "%s".</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>У вас недостаточно денег, чтобы купить одежду:\n"%s."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You currently cannot wear this article of clothing.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы не можете сейчас надеть этот элемент одежды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You have %s.  Surgery costs %s.\nWould you like to get surgery?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>У вас есть %s.  Пластическая операция стоит %s.\nВы согласны на операцию?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You don't have enough money\nto visit Image As Designed.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>У вас недостаточно денег\nна посещение Image As Designed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you want to select this preset?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вы действительно хотите выбрать эту предустановку?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Color</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Цвет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Branded</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Branded (Брендовая одежда)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Impressions</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Impressions (Одежда класса Люкс)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>On the Rag</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>On the Rag (Одежда для хиппи)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rusty's Needle</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Rusty's Needle (Тату-салон)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>On Thin Ice</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>On Thin Ice (Ювелирный салон)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Shear Intensity</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Shear Intensity (Парикмахерская)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Belts can only be worn with specific pants</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Ремни можно носить только со штанами определенного типа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You must have a long or medium necklace to wear this medallion.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вам нужна длинная или средная цепочка, чтобы надеть этот медальон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You must have a short necklace to wear this pendant</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T213402Z">
+        <seg>Вам нужна короткая цепочка, чтобы надеть этот кулон.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

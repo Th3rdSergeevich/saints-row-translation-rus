@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>K6 Krukov</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>К6 "Крюков"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Charge Launcher</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Гранатомет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>AR-40 Xtnd</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>AR-40 удлинен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SKR-7 Spree</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>SKR-7 "Спри"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>.44 Shepherd</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>.44 "Пастух"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PCP</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Пневматическая винтовка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tombstone</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>"Могильщик"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>RPG Launcher</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>РПГ-7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>AS12 Riot</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>AS12 "Бунтарь"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Stun Gun</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Тазер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>T3K Urban</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>T3K "Урбан"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>12 Gauge</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Обрез двухзарядный</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Baseball Bat</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Бейсбольная бита</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Camera</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Камера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cellphone</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Сотовый телефон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hand Grenade</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Ручная граната</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Knife</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Нож</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molotov Cocktail</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Коктейль Молотова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nightstick</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Полицейская дубинка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pimp Slap</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Перчатка сутенера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pipe Bomb</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Кустарная бомба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>McManus</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>МакМанус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Crowbar</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Монтировка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>MELEE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>ОРУЖИЕ БЛИЖНЕГО БОЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PISTOL</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>ПИСТОЛЕТЫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>RIFLE</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>ВИНТОВКИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SHOTGUN</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>ДРОБОВИКИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SPECIAL</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>ОСОБОЕ ОРУЖИЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SMG</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>ПИСТОЛЕТЫ-ПУЛЕМЕТЫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THROWN</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>МЕТАТЕЛЬНОЕ ОРУЖИЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bang bang! Point and shoot.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Классика жанра. Навел, выстрелил, забыл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Swing, battah battah battah!</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Для тех, кто делает людям больно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bang bang! Point and shoot.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Твой любимый.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bang bang! Point and shoot.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Ручная артиллерия. Осторожнее с отдачей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Glock</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Еще один твой любимый, но повместительнее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Shank Ya</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Для близких контактов третьего рода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Magnum Handgun.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Шесть пуль. Достаточно, чтобы убить человека.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thrown weapon, explodes into fire on impact.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Ядреная смесь. Взрывается огнем при контакте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One-handed bash weapon</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Помогает напомнить, кто здесь закон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dream on, Dream on, Dream oooooon! Dream with me! Dream for the year!</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Не рекомендуется для охоты на слона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Light the fuse and let it fly.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Всего один проводок, одна щепотка бесподобного хлората калия, один резкий рывок - и ХЛОБЫСЬ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bang bang! Point and shoot.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Надиратель задниц. Жвачка в комплект не входит.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bang bang! Point and shoot.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Уничтожает все, кроме зданий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Apply electric shock</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Позволяет разрядить напряженную обстановку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bang bang! Point and shoot.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Раздает пули бесплатно без СМС и регистрации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bang bang! Point and shoot.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Выбор хорошего подрывника.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bang bang! Point and shoot.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Выбор профессионала.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bang bang! Point and shoot.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Для любителей Второй поправки к Конституции США.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>spas 12.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Приклад разложи, придурок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sawed-off DBL Barrel Shotgun.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Ствол меньше, зато заряд крепче.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Light the fuse and let it fly.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Дернул чеку, бросил... Да не чеку!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One-handed bash weapon</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Для устранения непредвиденных последствий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>MAC 10.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Раздает пули бесплатно без СМС и регистраций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Camera</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Позволяет сделать фото.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pimp slap for pimp hat</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Для вызовов на дуэль и для вон того хера в шляпе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>DRUG</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>ЕДА/ВЫПИВКА/КУРЕВО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>40 oz.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Литрашка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sit back and crack open a Billy Dee.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Откинься в кресле и открой бутылочку Стилуотерского.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Blunt</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Скрутка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Your standard, run-of-the-mill blunt.  Good for glaucoma and Phish concerts.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Обычная скрутка с травкой. Подходит для лечения глаукомы и тусни на рок-концерте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bong</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Бонг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gin N' Juice</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Джин-тоник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pop cap and drink it.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Освежающее пойло.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cognac</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Коньяк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pop cap and drink it</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Для горячих голов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bubbly</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Водочка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pop cap and drink it.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Тяжелая "артиллерия".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pipe</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Трубка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hey man...have you ever looked at the back of a $20 bill....on WEEEEEEED?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Эй, чувввааак... Тыыы когда-нить смотрел на зад 20-долларовой купюры... под КААААААААААЙФОМ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Spliff</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Косячок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The weakest form of weed, mostly pencil shavings and oregano.  This is the stuff you used to get back in middle school.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Самая слабая вариация травки, в основном стружка от карандашей и петрушка. На этой дури ты сидел еще в старших классах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Snootchie-bootchies!</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Кумаааааааарик!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Stolen Goods</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Краденные товары</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>watch case</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>футляр от очков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>spray can</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>банка из-под аэрозоля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>spray paint</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>краска-аэрозоль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>liquor bottle</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>бутылка с выпивкой</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>jackhammer</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>кувалда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>quarter</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>четвертак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>100 dollar bill</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>100-долларовая купюра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>photo of Lynn</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>фото с Лин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>photo of King and Julius</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>фото с Кингом и Джулиусом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>lighter</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>зажигалка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>cigarette</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>сигарета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>bouquet</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>букет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Johnny's chair</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>стул Джонни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>lollipop</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>леденец</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>rag</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>коврик</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>stack100</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>стопка в 100 ед.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>bomb</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>бомба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Platinum RPG</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>РПГ-7 с ЛЦУ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gold Plated GDHC .50</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Позолоченный GDHC .50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Platinum T3K Urban</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Платиновый T3K "Урбан"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Platinum AS12 Riot</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Платиновый AS12 "Бунтарь"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Big Swallow</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>"Большой Глыть"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A styrofoam cup of any delicious cola beverage.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Пластиковый стаканчик с аппетитной газировкой на любой вкус.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Fist</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>"Кулак"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A pound and a half of meat, tomatoes, onions and hot spicy brown mustard.  This big-ass burger is huge.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Он же Царь-бургер. Полтора фунта мяса, помидоры, лук, и все это помазано острой горчицей. Едва помещается в руках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Twins</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>"Близняшки"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Two identical half pound burgers</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Два одинаковых бургера, каждый по полфунта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Chicken Bazooms</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>"Цыплячьи попки"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Giant, oval chicken nuggets.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Огромные, округлые куриные наггетсы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Delivery Goods</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Товары для доставки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sniper Rifle</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Снайперская винтовка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Police Badge</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Полицейский значок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Car Keys</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Ключи от машины</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pimp Cane</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Трость сутенера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kabob</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221024T210920Z">
+        <seg>Кебоб</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

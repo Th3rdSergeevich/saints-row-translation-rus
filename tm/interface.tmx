@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You cannot place a waypoint during a Mission or Activity!</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221025T195906Z">
+        <seg>Вы не можете разместить путевую точку во время Миссии или Шабашки!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There is not enough free space on the default Storage Device\nto complete the Save process.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221025T195906Z">
+        <seg>На этом Устройстве хранения недостаточно свободного места,\nчтобы сохранить игру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to quit?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221025T195906Z">
+        <seg>Вы действительно хотите выйти из игры?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to quit?\n(Any unsaved progress will be lost.)</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221025T195906Z">
+        <seg>Вы действительно хотите выйти из игры?\n(Весь несохраненный прогресс будет утерян.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to quit?\n(All stats earned in this match will be lost.)</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221025T195906Z">
+        <seg>Вы действительно хотите выйти из матча?\n(Набранная статистика учитываться не будет.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave %s?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221025T195906Z">
+        <seg>Вы действительно хотите покинуть %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Retrying a mission will cause you to lose any weapons\nor respect you earned while playing the mission.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221025T195906Z">
+        <seg>При перезапуске миссии все ваше оружие будет утеряно,\nа набранные во время миссии очки уважения будут сброшены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Retrying an Activity will cause you to lose any weapons\nor respect you earned while playing the Activity.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221025T195906Z">
+        <seg>При перезапуске шабашки все ваше оружие будет утеряно\nа набранные во время шабашки очки уважения будут сброшены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to leave Hitman?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221025T195906Z">
+        <seg>Вы действительно хотите выйти из режима "Киллер"?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cancel pushback defense.\nAre you sure?</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221025T195906Z">
+        <seg>Оборона района будет отменена.\nВы уверены?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You are not currently signed in with a gamer profile.\nYou will not be able to save game progress or earn achievements.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221025T195906Z">
+        <seg>Вы не вошли в свою игровую учетную запись.\nСохранение игры и достижения недоступны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There is not enough free space on the default Storage Device\nto complete the Save process.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221025T195906Z">
+        <seg>На стандартном Устройстве хранения недостаточно свободного места,\nчтобы сохранить игру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Load Process has failed because the default\nStorage Device is no longer available.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221025T195906Z">
+        <seg>Стандартное Устройство хранение недоступно,\nзагрузка прервана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Save Process has failed because the default\nStorage Device is no longer available.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" creationid="OmegaT Aligner" creationdate="20221025T195906Z">
+        <seg>Стандартное Устройство хранение недоступно,\nсохранение прервано.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
