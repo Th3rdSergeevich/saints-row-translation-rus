@@ -1,0 +1,18 @@
+ThomasJepp.SaintsRow - Saints Row IV and Gat Out Of Hell tools
+Copyright (c) 2013-2016, Thomas Jepp
+All rights reserved.
+
+You may redistribute the source code or compiled binaries as long as you meet the following conditions:
+
+1. You must give credit to the original creator of the software.
+
+2. You must include this license file without any changes.
+
+3. You must provide a link back to the original download pages:
+   https://www.saintsrowmods.com/forum/threads/minimauls-saints-row-iv-and-gat-out-of-hell-tools.3188/
+   or
+   https://github.com/saintsrowmods/ThomasJepp.SaintsRow
+
+4. If you alter the software in any way you must clearly say that it has been modified. Do not claim that your modified version is the original software.
+
+5. If you make changes to the source code and then release new binaries you must also release your changes to the source code.
