@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="paragraph" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="paragraph" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1880,8 +1880,8 @@
       <tuv lang="en-US">
         <seg>Aight, you're comin' with me.  We got some Rollerz to fuck up.\n4400</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221214T175927Z" creationid="Никита Потапов" creationdate="20221214T175927Z">
-        <seg>Так, ты идешь со мной. Надо разъебать парочку Роллерзов.\n4400</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210905Z" creationid="Никита Потапов" creationdate="20221214T175927Z">
+        <seg>Так, ты едешь со мной. Надо разъебать парочку Роллерзов.\n4400</seg>
       </tuv>
     </tu>
     <tu>
@@ -2000,8 +2000,8 @@
       <tuv lang="en-US">
         <seg>All I'm sayin' is that since you got here you've been nothin' but talk.\n3400</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221213T200059Z" creationid="Никита Потапов" creationdate="20221213T200059Z">
-        <seg>Просто к слову, с тех пор, как ты ошиваешься здесь, ты все только болтаешь.\n3400</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T062345Z" creationid="Никита Потапов" creationdate="20221213T200059Z">
+        <seg>Просто к слову: с тех пор, как ты ошиваешься здесь, ты все только болтаешь.\n3400</seg>
       </tuv>
     </tu>
     <tu>
@@ -2040,8 +2040,8 @@
       <tuv lang="en-US">
         <seg>All the King's Men</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20230131T200241Z" creationid="Никита Потапов" creationdate="20221106T204424Z">
-        <seg>Вся "королевская" рать</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T063254Z" creationid="Никита Потапов" creationdate="20221106T204424Z">
+        <seg>Вся королевская рать</seg>
       </tuv>
     </tu>
     <tu>
@@ -2192,8 +2192,8 @@
       <tuv lang="en-US">
         <seg>Alright, if the Vice Kings are gonna take the fall we gotta make sure whatever we do is caught on tape.\n6200</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221211T214056Z" creationid="Никита Потапов" creationdate="20221211T214056Z">
-        <seg>Ладно, если мы хотим навредить Вайс Кингс, нужно убедиться, что все, что мы делаем попадет на пленку.\n6200</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T061444Z" creationid="Никита Потапов" creationdate="20221211T214056Z">
+        <seg>Ладно, если мы хотим навредить Вайс Кингс, нужно убедиться, что все, что мы делаем, попадет на пленку.\n6200</seg>
       </tuv>
     </tu>
     <tu>
@@ -2240,8 +2240,8 @@
       <tuv lang="en-US">
         <seg>Alright, one more stop and you can come home.  There's a new exibit outside the museum.  How 'bout you roll over there and show 'em how much you appreciate modern art.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221211T214509Z" creationid="Никита Потапов" creationdate="20221211T214509Z">
-        <seg>Хорошо, последняя остановка перед возвращением домой. Там открылась новая выставка у музея. Как насчет того, чтобы съездить в нижний город и выразить свое мнение к современному искусству?</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T061422Z" creationid="Никита Потапов" creationdate="20221211T214509Z">
+        <seg>Хорошо, последняя остановка перед возвращением домой. Там открылась новая выставка у музея. Как насчет того, чтобы съездить в нижний город и выразить свое мнение о современном искусстве?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2928,8 +2928,8 @@
       <tuv lang="en-US">
         <seg>As stimulating as this conversation is, I'm afraid I need to make some calls.  If you'd excuse me.\n8800</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221213T215650Z" creationid="Никита Потапов" creationdate="20221213T215650Z">
-        <seg>Каким бы живительным ни был разговор, боюсь, мне нужно сделать пару звонков. Прошу извинить.\n8800</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210316Z" creationid="Никита Потапов" creationdate="20221213T215650Z">
+        <seg>Каким бы живительным ни был этот разговор, боюсь, мне нужно сделать пару звонков. Прошу извинить.\n8800</seg>
       </tuv>
     </tu>
     <tu>
@@ -4592,8 +4592,8 @@
       <tuv lang="en-US">
         <seg>Bout fuckin' time you got here.\n2000</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20230331T203322Z" creationid="Никита Потапов" creationdate="20221211T205843Z">
-        <seg>Вовремя, блядь, ты же приперся.\n2000</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T061109Z" creationid="Никита Потапов" creationdate="20221211T205843Z">
+        <seg>Вовремя, блядь, ты приперся.\n2000</seg>
       </tuv>
     </tu>
     <tu>
@@ -7024,8 +7024,8 @@
       <tuv lang="en-US">
         <seg>Come to the nightclub. Samson's done workin' on those cars, and we gotta talk about what we're gonna do with 'em.\n6000</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221213T211524Z" creationid="Никита Потапов" creationdate="20221213T211524Z">
-        <seg>Приходи в ночной клую. Самсон закончил работу над машинами, нам надо обсудить, что мы будем делать с ними.\n6000</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210010Z" creationid="Никита Потапов" creationdate="20221213T211524Z">
+        <seg>Приходи в ночной клуб. Самсон закончил работу над машинами, нам надо обсудить, что мы будем делать с ними.\n6000</seg>
       </tuv>
     </tu>
     <tu>
@@ -8384,8 +8384,8 @@
       <tuv lang="en-US">
         <seg>Defend the church at all costs.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221118T173208Z" creationid="Никита Потапов" creationdate="20221118T173208Z">
-        <seg>Защитите церковь любой ценой!</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T062930Z" creationid="Никита Потапов" creationdate="20221118T173208Z">
+        <seg>Защищайте церковь любой ценой!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8944,8 +8944,8 @@
       <tuv lang="en-US">
         <seg>Did you hear that asshole Donnie?  He said I was his girl.\n6600</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221214T172746Z" creationid="Никита Потапов" creationdate="20221214T172746Z">
-        <seg>Ты слышал этого засранца Донни? Он сказал, что я его девушка.\n6600</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210720Z" creationid="Никита Потапов" creationdate="20221214T172746Z">
+        <seg>Ты слышал этого засранца Донни? Он сказал, что я его девушка...\n6600</seg>
       </tuv>
     </tu>
     <tu>
@@ -9760,8 +9760,8 @@
       <tuv lang="en-US">
         <seg>Don't let me hold ya up; you know how the lady hates to be kept waiting.\n4000</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221214T171135Z" creationid="Никита Потапов" creationdate="20221214T171135Z">
-        <seg>Не буду тебя задерживать; ты знаешь, как эта дама не любит ждать.\n4000</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210630Z" creationid="Никита Потапов" creationdate="20221214T171135Z">
+        <seg>Не буду тебя задерживать; сам знаешь, как эта дама не любит ждать.\n4000</seg>
       </tuv>
     </tu>
     <tu>
@@ -9792,8 +9792,8 @@
       <tuv lang="en-US">
         <seg>Don't let those news vans get any footage.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221114T211411Z" creationid="Никита Потапов" creationdate="20221114T211411Z">
-        <seg>Не дайте новостникам собрать материал для "эксклюзива".</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T194101Z" creationid="Никита Потапов" creationdate="20221114T211411Z">
+        <seg>Не дайте репортерам собрать материал для "эксклюзива".</seg>
       </tuv>
     </tu>
     <tu>
@@ -10472,7 +10472,7 @@
       <tuv lang="en-US">
         <seg>Drop those suckas with the RPGS before they take us out!</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221207T213956Z" creationid="Никита Потапов" creationdate="20221207T213956Z">
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T155928Z" creationid="Никита Потапов" creationdate="20221207T213956Z">
         <seg>Вынеси этих сосунков с РПГ, пока они не вынесли нас!</seg>
       </tuv>
     </tu>
@@ -12560,8 +12560,8 @@
       <tuv lang="en-US">
         <seg>Footage</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221113T215608Z" creationid="Никита Потапов" creationdate="20221113T215608Z">
-        <seg>Пробег</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T061505Z" creationid="Никита Потапов" creationdate="20221113T215608Z">
+        <seg>Материал</seg>
       </tuv>
     </tu>
     <tu>
@@ -12864,8 +12864,8 @@
       <tuv lang="en-US">
         <seg>Fuck it, they're probably fine.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221213T183109Z" creationid="Никита Потапов" creationdate="20221213T183109Z">
-        <seg>Нахуй, с ними, наверное, все в порядке.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T061912Z" creationid="Никита Потапов" creationdate="20221213T183109Z">
+        <seg>Похуй, с ними, наверное, все в порядке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13792,8 +13792,8 @@
       <tuv lang="en-US">
         <seg>Get behind the &lt;teal&gt;statue of Alderman Hughes&lt;/teal&gt;.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221121T185538Z" creationid="Никита Потапов" creationdate="20221121T185453Z">
-        <seg>Встаньте за &lt;teal&gt;статуей Альдермана Хьюза&lt;/teal&gt;.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T063119Z" creationid="Никита Потапов" creationdate="20221121T185453Z">
+        <seg>Направляйтесь к &lt;teal&gt;статуе Альдермана Хьюза&lt;/teal&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15088,8 +15088,8 @@
       <tuv lang="en-US">
         <seg>Go to the &lt;teal&gt;record studio&lt;/teal&gt; and wait for Tanya.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221121T185152Z" creationid="Никита Потапов" creationdate="20221121T185152Z">
-        <seg>Направляйтесь к&lt;teal&gt;звукозаписывающей студии&lt;/teal&gt; и ждите Таню.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T062615Z" creationid="Никита Потапов" creationdate="20221121T185152Z">
+        <seg>Направляйтесь к &lt;teal&gt;звукозаписывающей студии&lt;/teal&gt; и ждите Таню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15352,8 +15352,8 @@
       <tuv lang="en-US">
         <seg>Good job man, I'll tell Julius we're done here.  Take Angelo's ride, I'll drive this back to your crib.\n7700</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20240921T212945Z" creationid="Никита Потапов" creationdate="20221204T220234Z">
-        <seg>Отличная работа, чувак, я передам Джулиусу, что мы здесь закончили. Возьми тачку Анджело, а я пока завезу это к тебе на хату.\n7700</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T153257Z" creationid="Никита Потапов" creationdate="20221204T220234Z">
+        <seg>Отличная работа, чувак, я передам Джулиусу, что мы здесь закончили. Возьми тачку Анджело, а я пока завезу эту к тебе на хату.\n7700</seg>
       </tuv>
     </tu>
     <tu>
@@ -16392,8 +16392,8 @@
       <tuv lang="en-US">
         <seg>Hear me out, alright?  King's obviously got somethin' goin' on with the police, I'll figure that shit out.  In the meantime I want you two to go out and cause some havoc.  If we can turn the public's eye to the Kings then the police won't have a choice but to come down on them.\n14200</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221211T212039Z" creationid="Никита Потапов" creationdate="20221211T212039Z">
-        <seg>Выслушай меня, хорошо? У Кинга явно что-то есть связанное с полицией, я это выясню, что именно. Ну а пока мне нужно, чтоб вы вдвоем выехали и навели шороху. Если мы сможем перевести внимание публики на "королей", тогда у полиции не останется выбора, кроме как устроить облаву на них.\n14200</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T061253Z" creationid="Никита Потапов" creationdate="20221211T212039Z">
+        <seg>Выслушай меня, хорошо? У Кинга явно что-то есть связанное с полицией, я выясню, что именно. Ну а пока мне нужно, чтоб вы вдвоем выехали и навели шороху. Если мы сможем перевести внимание публики на "королей", тогда у полиции не останется выбора, кроме как устроить облаву на них.\n14200</seg>
       </tuv>
     </tu>
     <tu>
@@ -16520,8 +16520,8 @@
       <tuv lang="en-US">
         <seg>Hello, hey it's good to hear fr-- what-- wait, wait, slowdown, what are you saying?  Look, our arrangement has been beneficial for both par-- Look, why don't we talk about this tonight over dinner.  I'm sure we can work this out, okay? Alright, see you tonight.  Goodbye.\n21700</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221213T183338Z" creationid="Никита Потапов" creationdate="20221213T183338Z">
-        <seg>Привет, эй, приятно слышать от т-- чт-- стоп, стоп, помедленее, о чем ты говоришь. Слушай, наше соглашение было взаимовыгодным для обеих сто-- Слушай, может, обговорим это за ужином сегодня вечером? Уверен, мы сможем все уладить, верно? Хорошо, сегодня увидимся. До свидания.\n21700</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T061949Z" creationid="Никита Потапов" creationdate="20221213T183338Z">
+        <seg>Привет, эй, приятно слышать от т-- чт-- стоп, стоп, помедленее, о чем ты говоришь? Слушай, наше соглашение было взаимовыгодным для обеих сто-- Слушай, может, обговорим это за ужином сегодня вечером? Уверен, мы сможем все уладить, верно? Хорошо, сегодня увидимся. До свидания.\n21700</seg>
       </tuv>
     </tu>
     <tu>
@@ -16736,8 +16736,8 @@
       <tuv lang="en-US">
         <seg>Hey man, let's get to the race...look, I don't care what Lin says, you get me next to those cars and I'll take care of the Rollerz, to hell with this lap-race bullshit.\n8500</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221213T212104Z" creationid="Никита Потапов" creationdate="20221213T212104Z">
-        <seg>Эй, брат, погнали на гонку... Слушай, мне плевать, что Лин тебе наговорила, ты меня подгонишь к тем машинам, и я разберусь с Роллерзами, к черту этой ездой по кругу.\n8500</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210047Z" creationid="Никита Потапов" creationdate="20221213T212104Z">
+        <seg>Эй, брат, погнали на гонку... Слушай, мне плевать, что Лин тебе наговорила, ты меня подгонишь к тем машинам, и я разберусь с Роллерзами, к черту эту езду по кругу.\n8500</seg>
       </tuv>
     </tu>
     <tu>
@@ -16984,8 +16984,8 @@
       <tuv lang="en-US">
         <seg>Hey, not to be pushy or nothin', but how 'bout you get me out of this fucking chair?!\n6000</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20230331T203331Z" creationid="Никита Потапов" creationdate="20221211T205827Z">
-        <seg>Эй, не хочу давить на тебя, но как насчет того, чтоб снять меня с этого сраного стула?!\n6000</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T061100Z" creationid="Никита Потапов" creationdate="20221211T205827Z">
+        <seg>Эй, не хочу давить на тебя, но как насчет того, чтоб снять меня С ЭТОГО СРАНОГО СТУЛА?!\n6000</seg>
       </tuv>
     </tu>
     <tu>
@@ -17704,8 +17704,8 @@
       <tuv lang="en-US">
         <seg>How many times do I have to explain it to you Miss Jackson, do not walk around without wearing your neck brace.  If someone catches you it could severely hurt our chances in court.  Just remember: the whiplash has caused excruciating, chronic pain.  You got that?  Good.  Have a good night Miss Jackson.\n17500</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221208T180040Z" creationid="Никита Потапов" creationdate="20221208T175245Z">
-        <seg>Сколько раз я должен объяснять вам, мисс Джексон, никуда не выходите без шейного воротника. Если вас заметят, наши шансы на суде заметно снизятся. Просто запомните: хлыстовая травма вызвала мучительную, хроническую боль. Запомнили? Хорошо. Доброй ночи, мисс Джексон.\n17500</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T061711Z" creationid="Никита Потапов" creationdate="20221208T175245Z">
+        <seg>Сколько раз я должен объяснять вам, мисс Джексон, никуда не выходите без шейного воротника. Если вас заметят, наши шансы на суде заметно снизятся. Просто запомните: растяжение вызвало мучительную, хроническую боль. Запомнили? Хорошо. Доброй ночи, мисс Джексон.\n17500</seg>
       </tuv>
     </tu>
     <tu>
@@ -18152,8 +18152,8 @@
       <tuv lang="en-US">
         <seg>I don't know if it's quota time or what, but the cops are leaning hard on us.  Shit's too hot right now, I want you to get off the street... hold on.  What?  You're kiddin' me.  Those fucking cocksuckers!  Change of plans, it looks like the Kings are trying to get back Tanya's old digs as we speak.  Get your ass over there and help our boys.  You're the only backup they're gettin'.\n20500</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221213T204821Z" creationid="Никита Потапов" creationdate="20221213T204821Z">
-        <seg>Я не знаю, что у них там за разнарядка, но копы давят на нас. Здесь слишком жарко, я хочу, чтоб ты убрался с улиц... так, погоди. Что? Ты издеваешься? Вот же обсосы злоебучие! План меняется, похоже, что "короли" пытаются отбить старую халупу Тани, пока мы разговариваем. Тащи свой зад и помоги нашим пацанам. Ты для них единственная подмога.\n20500</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T194527Z" creationid="Никита Потапов" creationdate="20221213T204821Z">
+        <seg>Я не знаю, что у них там за разнарядка, но копы сейчас давят на нас. Здесь слишком жарко, я хочу, чтоб ты убрался с улиц... так, погоди. Что? Ты издеваешься? Вот же обсосы злоебучие! План меняется, похоже, что "короли" пытаются отбить старую халупу Тани, пока мы разговариваем. Тащи свой зад и помоги нашим пацанам. Ты для них единственная подмога.\n20500</seg>
       </tuv>
     </tu>
     <tu>
@@ -18496,8 +18496,8 @@
       <tuv lang="en-US">
         <seg>I mean, had Winslow been the only person killed, attention would have definitely been cast on me, but after that fireworks display you pulled at his funeral, it's become abundantly clear these horrible crimes were perpetrated by the 3rd Street Saints.\n14500</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221116T215210Z" creationid="Никита Потапов" creationdate="20221116T215210Z">
-        <seg>В смысле, если бы умер только Уинслоу, то все внимание явно было бы обращено на меня, но после того фейерверка, что ты устроил на его похоронах, стало предельно ясно, что все эти чудовищные преступления совершили Святые с 3-й улицы.\n14500</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T211444Z" creationid="Никита Потапов" creationdate="20221116T215210Z">
+        <seg>Я к тому, что если бы умер только Уинслоу, то все внимание явно было бы обращено на меня, но после того фейерверка, что ты устроил на его похоронах, стало предельно ясно, что все эти чудовищные преступления совершили Святые с 3-й улицы.\n14500</seg>
       </tuv>
     </tu>
     <tu>
@@ -18576,8 +18576,8 @@
       <tuv lang="en-US">
         <seg>I said no.  You're alive, we straight.  But the Vice Kings?  They're through.\n4600</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221204T222647Z" creationid="Никита Потапов" creationdate="20221204T222647Z">
-        <seg>Я сказал нет. Ты жив, мы квиты. Но Вайс Кингс? С ними покончено.\n4600</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T062128Z" creationid="Никита Потапов" creationdate="20221204T222647Z">
+        <seg>Я сказал - нет. Ты жив, мы квиты. Но Вайс Кингс? С ними покончено.\n4600</seg>
       </tuv>
     </tu>
     <tu>
@@ -18592,8 +18592,8 @@
       <tuv lang="en-US">
         <seg>I scared the shit outta me.\n2100</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221213T214850Z" creationid="Никита Потапов" creationdate="20221213T214850Z">
-        <seg>Я сам себя напугал меня до усрачки.\n2100</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210237Z" creationid="Никита Потапов" creationdate="20221213T214850Z">
+        <seg>Я сам себя напугал до усрачки.\n2100</seg>
       </tuv>
     </tu>
     <tu>
@@ -18624,8 +18624,8 @@
       <tuv lang="en-US">
         <seg>I suppose I could try to pay you off, but really what's the point?  You'd just say no, or in your case, stand there looking intimidating, and we'd be right back where we started.  So I figured I'd cut the middle man and get right to the point.\n11800</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221116T220003Z" creationid="Никита Потапов" creationdate="20221116T220003Z">
-        <seg>Наверное, мне стоило бы откупиться, но в чем тогда смысл? Ты бы просто сказал "нет" или, как сейчас, стоял бы и сверлил меня взглядом, и мы бы оказались там же, откуда и начали. Так что я прикинул, что я обойдусь без прелюдий и перейду сразу к делу.\n11800</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T211542Z" creationid="Никита Потапов" creationdate="20221116T220003Z">
+        <seg>Наверное, мне стоило бы откупиться, но в чем тогда смысл? Ты бы просто сказал "нет" или, как сейчас, стоял бы и сверлил меня взглядом, и мы бы оказались там же, откуда и начали. Так что я пришел к выводу, что я обойдусь без прелюдий и перейду сразу к делу.\n11800</seg>
       </tuv>
     </tu>
     <tu>
@@ -18688,8 +18688,8 @@
       <tuv lang="en-US">
         <seg>I think the Kings are through with the Policeman's Balls.\n3200</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221213T181731Z" creationid="Никита Потапов" creationdate="20221213T181711Z">
-        <seg>Думаю, "короли" перестануть теребить сине-красные яйца.\n3200</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T061902Z" creationid="Никита Потапов" creationdate="20221213T181711Z">
+        <seg>Думаю, "короли" перестанут теребить сине-красные яйца.\n3200</seg>
       </tuv>
     </tu>
     <tu>
@@ -18928,8 +18928,8 @@
       <tuv lang="en-US">
         <seg>I'll have Monroe put some pressure on the Saints.  While they're distracted, it should be easy to take back what's ours.  Everything else is business as usual, understood?  Now, this meeting is over.\n14500</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221211T164033Z" creationid="Никита Потапов" creationdate="20221211T164033Z">
-        <seg>Я попрошу Монро надавить немного на Святых. Пока они отвлечены, будет намного проще забрать то, что принадлежит нам. В остальном же - бизнес как обычно, понятно? На этом наша встреча окончена.\n14500</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T184315Z" creationid="Никита Потапов" creationdate="20221211T164033Z">
+        <seg>Я попрошу Монро надавить немного на Святых. Пока они отвлечены, будет намного проще забрать то, что принадлежит нам. В остальном же - ведём дела как обычно, понятно? На этом наша встреча окончена.\n14500</seg>
       </tuv>
     </tu>
     <tu>
@@ -19336,8 +19336,8 @@
       <tuv lang="en-US">
         <seg>I'm through carrying your punk ass.  If I were you, I'd drop them damn flags and get the fuck on out of here before I erase your ass.\n7900</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221213T183532Z" creationid="Никита Потапов" creationdate="20221211T214624Z">
-        <seg>С меня достаточно трепать твою буйную задницу. На твоем бы месте я бы сбросил флаги и съебался отсюда, пока я тебя не вырезал нахуй.\n7900</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T062111Z" creationid="Никита Потапов" creationdate="20221211T214624Z">
+        <seg>Мне надоело вытягивать твою буйную задницу. На твоем бы месте я бы сбросил флаги и съебался отсюда, пока я тебя не вырезал нахуй.\n7900</seg>
       </tuv>
     </tu>
     <tu>
@@ -19584,8 +19584,8 @@
       <tuv lang="en-US">
         <seg>If there's murderin' to do, I'm the guy to call, not some asshole they dragged off the street.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221213T184054Z" creationid="Никита Потапов" creationdate="20221116T191225Z">
-        <seg>"Ушел с Аишей. Возьми отгул. Набухайся, натрахайся, делай что хочешь." - Гэт</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T211646Z" creationid="Никита Потапов" creationdate="20221116T191225Z">
+        <seg>"Ушёл с Аишей. Возьми отгул. Набухайся, натрахайся, делай что хочешь." - Гэт</seg>
       </tuv>
     </tu>
     <tu>
@@ -19616,7 +19616,7 @@
       <tuv lang="en-US">
         <seg>If we don't kill those guys with the rocket launchers we're fucked!</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221207T213935Z" creationid="Никита Потапов" creationdate="20221207T213935Z">
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T155941Z" creationid="Никита Потапов" creationdate="20221207T213935Z">
         <seg>Если мы не разберемся с теми парнями с ракетницами, нам пиздец!</seg>
       </tuv>
     </tu>
@@ -19680,8 +19680,8 @@
       <tuv lang="en-US">
         <seg>If you get too close to a news van, the pleasure meter will stop increasing.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221114T211240Z" creationid="Никита Потапов" creationdate="20221114T211240Z">
-        <seg>Если новостной фургон подойдет слишком близко, шкала удовольствия перестанет заполняться.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T194027Z" creationid="Никита Потапов" creationdate="20221114T211240Z">
+        <seg>Если репортерский фургон подойдет слишком близко, шкала удовольствия перестанет заполняться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21096,8 +21096,8 @@
       <tuv lang="en-US">
         <seg>Just the same, one getting' away ain't bad.  Let's get outta here, playa.  We'll deal with Price once you get patched up.\n6600</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221214T181430Z" creationid="Никита Потапов" creationdate="20221214T181430Z">
-        <seg>То же самое, если один сбежал, то это не проблема. Поехали отсюда, браток. Разберемся с Прайсом, как только подлатаешь себя.\n6600</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210939Z" creationid="Никита Потапов" creationdate="20221214T181430Z">
+        <seg>Опять же, если один сбежал, то это не проблема. Поехали отсюда, браток. Разберемся с Прайсом, как только подлатаешь себя.\n6600</seg>
       </tuv>
     </tu>
     <tu>
@@ -21528,7 +21528,7 @@
       <tuv lang="en-US">
         <seg>Kill those muthafuckas before they blow us up!</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221207T213911Z" creationid="Никита Потапов" creationdate="20221207T213911Z">
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T155944Z" creationid="Никита Потапов" creationdate="20221207T213911Z">
         <seg>Замочи этих засранцев, пока они нас не взорвали!</seg>
       </tuv>
     </tu>
@@ -22840,8 +22840,8 @@
       <tuv lang="en-US">
         <seg>Light 'em up, boys.  We're burning Saint's Row to the ground.\n5000</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221214T175619Z" creationid="Никита Потапов" creationdate="20221214T175619Z">
-        <seg>Зажигайте, пацаны. Сожжем Двор Святых до тла.\n5000</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210835Z" creationid="Никита Потапов" creationdate="20221214T175619Z">
+        <seg>Заводите моторы, пацаны. Мы сожжем Двор Святых до тла.\n5000</seg>
       </tuv>
     </tu>
     <tu>
@@ -23032,8 +23032,8 @@
       <tuv lang="en-US">
         <seg>Lin was working with the Saints.  Now would you give me a hand?  This car is heavy... Donnie, where are you going?\n10000</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221214T172627Z" creationid="Никита Потапов" creationdate="20221214T172627Z">
-        <seg>Лин работала на Святых? Может, поможешь мне? Машина-то тяжелая... Донни, ты куда собрался?\n10000</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210708Z" creationid="Никита Потапов" creationdate="20221214T172627Z">
+        <seg>Лин работала на Святых. Может, поможешь мне? Машина-то тяжелая... Донни, ты куда собрался?\n10000</seg>
       </tuv>
     </tu>
     <tu>
@@ -23048,8 +23048,8 @@
       <tuv lang="en-US">
         <seg>Lin's been sayin' you're doin' a hell of a job when it comes to the Rollerz.  Keep it up.\n4500</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221214T171030Z" creationid="Никита Потапов" creationdate="20221214T171030Z">
-        <seg>Лин говорит, ты чертовки хорошо работаешь над Роллерзами. Так держать\n4500</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210619Z" creationid="Никита Потапов" creationdate="20221214T171030Z">
+        <seg>Лин говорит, ты чертовки хорошо работаешь над Роллерзами. Так держать.\n4500</seg>
       </tuv>
     </tu>
     <tu>
@@ -23176,8 +23176,8 @@
       <tuv lang="en-US">
         <seg>Listen up, people. We're done dicking around with the Saints.\n4700</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221214T175313Z" creationid="Никита Потапов" creationdate="20221214T175251Z">
-        <seg>Слушай сюда, народ. Довольно сюсюкаться с этими Святыми\n4700</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210752Z" creationid="Никита Потапов" creationdate="20221214T175251Z">
+        <seg>Слушай сюда, народ. Довольно сюсюкаться с этими Святыми.\n4700</seg>
       </tuv>
     </tu>
     <tu>
@@ -23440,8 +23440,8 @@
       <tuv lang="en-US">
         <seg>Look, I worked out a plan that will hurt the Kings, and put minimum risk on you.\n3900</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221211T211255Z" creationid="Никита Потапов" creationdate="20221211T211255Z">
-        <seg>Слушай, я проработал план, который навредит "королям" и подвергнет вам меньшему риску.\n3900</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T061206Z" creationid="Никита Потапов" creationdate="20221211T211255Z">
+        <seg>Слушай, я проработал план, который навредит "королям" и подвергнет вас меньшему риску.\n3900</seg>
       </tuv>
     </tu>
     <tu>
@@ -23688,8 +23688,8 @@
       <tuv lang="en-US">
         <seg>Lose the news van trailing you.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221114T211545Z" creationid="Никита Потапов" creationdate="20221114T211545Z">
-        <seg>Сбросьте новостной фургон у себя с хвоста.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T194119Z" creationid="Никита Потапов" creationdate="20221114T211545Z">
+        <seg>Сбросьте репортерский фургон у себя с хвоста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25704,8 +25704,8 @@
       <tuv lang="en-US">
         <seg>News Van roadblock ahead.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221114T211517Z" creationid="Никита Потапов" creationdate="20221114T211517Z">
-        <seg>Впереди застава из новостников.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T194114Z" creationid="Никита Потапов" creationdate="20221114T211517Z">
+        <seg>Впереди застава из репортеров.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26176,8 +26176,8 @@
       <tuv lang="en-US">
         <seg>No, seriously, fuck you.\n3600</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221211T210922Z" creationid="Никита Потапов" creationdate="20221211T210922Z">
-        <seg>Нет, серьезно, иди нахуй.\n3600</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T061143Z" creationid="Никита Потапов" creationdate="20221211T210922Z">
+        <seg>Нет, серьезно. Иди. Нахуй.\n3600</seg>
       </tuv>
     </tu>
     <tu>
@@ -27512,8 +27512,8 @@
       <tuv lang="en-US">
         <seg>Okay, it looks like the cops have been getting in on some of King's protection rackets; that's why they've been goin' so easy on the VKs.  We gotta go public with this shit.  Now if we--\n9400</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221213T180515Z" creationid="Никита Потапов" creationdate="20221213T180515Z">
-        <seg>Окей, похоже, что копы долгое время входили в долю от регулярных рэкетов Кинга; поэтому они смотрят на ВКшников сквозь пальцы. Самое время выставить это дерьмо на публику. Если тылько мы--\n9400</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T061752Z" creationid="Никита Потапов" creationdate="20221213T180515Z">
+        <seg>Окей, похоже, что копы долгое время входили в долю от регулярных рэкетов Кинга; поэтому они смотрят на ВКшников сквозь пальцы. Самое время выставить это дерьмо на публику. Если только мы--\n9400</seg>
       </tuv>
     </tu>
     <tu>
@@ -32120,8 +32120,8 @@
       <tuv lang="en-US">
         <seg>Return to the &lt;teal&gt;record studio&lt;/teal&gt; and pick up Tanya.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221121T185204Z" creationid="Никита Потапов" creationdate="20221121T185204Z">
-        <seg>Вернитесь к&lt;teal&gt;звукозаписывающей студии&lt;/teal&gt; и подберите Таню.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T062613Z" creationid="Никита Потапов" creationdate="20221121T185204Z">
+        <seg>Вернитесь к &lt;teal&gt;звукозаписывающей студии&lt;/teal&gt; и подберите Таню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34112,7 +34112,7 @@
       <tuv lang="en-US">
         <seg>Shit, they got rocket launchers!</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221207T214006Z" creationid="Никита Потапов" creationdate="20221207T214006Z">
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T155934Z" creationid="Никита Потапов" creationdate="20221207T214006Z">
         <seg>Черт, у них ракетницы!</seg>
       </tuv>
     </tu>
@@ -34912,8 +34912,8 @@
       <tuv lang="en-US">
         <seg>So what's in here?  Guns?  Money?  Some uncut shit?...  Shoes?\n5500</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221204T215902Z" creationid="Никита Потапов" creationdate="20221204T215902Z">
-        <seg>Что там у тебя? Пушки? Деньги? Контрабанда?... Туфли?\n5500</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T153329Z" creationid="Никита Потапов" creationdate="20221204T215902Z">
+        <seg>Что там у тебя? Пушки? Деньги? Дешевая контрабанда?... Туфли?\n5500</seg>
       </tuv>
     </tu>
     <tu>
@@ -36224,8 +36224,8 @@
       <tuv lang="en-US">
         <seg>Stopping those hijackings really fucked things up for the Rollerz.  They got a whole list of cars that they're plannin' on jackin'.  Make sure they can't find what they're looking for.\n9400</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221214T164350Z" creationid="Никита Потапов" creationdate="20221214T164350Z">
-        <seg>Сорвав все те похищения, ты изрядно все попортил Роллерзам. У них есть целый список, которые они планируют угнать. Сделай так, чтобы они не вышли на то, что ищут.\n9400</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210348Z" creationid="Никита Потапов" creationdate="20221214T164350Z">
+        <seg>Сорвав все те похищения, ты изрядно все попортил Роллерзам. У них есть целый список машин, которые они планируют угнать. Сделай так, чтобы они не вышли на то, что ищут.\n9400</seg>
       </tuv>
     </tu>
     <tu>
@@ -37088,8 +37088,8 @@
       <tuv lang="en-US">
         <seg>Take Tanya back to &lt;teal&gt;Anthony's condo&lt;/teal&gt;.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221121T185118Z" creationid="Никита Потапов" creationdate="20221121T185118Z">
-        <seg>Отвезите Таню назад к&lt;teal&gt;дому Энтони&lt;/teal&gt;.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T062628Z" creationid="Никита Потапов" creationdate="20221121T185118Z">
+        <seg>Отвезите Таню назад к &lt;teal&gt;дому Энтони&lt;/teal&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37216,7 +37216,7 @@
       <tuv lang="en-US">
         <seg>Take out those chumps with the RPGS!</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221207T213831Z" creationid="Никита Потапов" creationdate="20221207T213831Z">
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T155950Z" creationid="Никита Потапов" creationdate="20221207T213831Z">
         <seg>Убери тех чуваков с РПГ!</seg>
       </tuv>
     </tu>
@@ -37272,56 +37272,56 @@
       <tuv lang="en-US">
         <seg>Take the client to &lt;teal&gt;Freckle Bitch's&lt;/teal&gt;.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221114T211752Z" creationid="Никита Потапов" creationdate="20221114T211752Z">
-        <seg>Отвезите клиента в&lt;teal&gt;Freckle Bitch's&lt;/teal&gt;.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T194136Z" creationid="Никита Потапов" creationdate="20221114T211752Z">
+        <seg>Отвезите клиента во &lt;teal&gt;Freckle Bitch's&lt;/teal&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Take the client to the &lt;teal&gt;brothel&lt;/teal&gt;.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221114T211723Z" creationid="Никита Потапов" creationdate="20221114T211723Z">
-        <seg>Отвезите клиента в&lt;teal&gt;бордель&lt;/teal&gt;.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T194127Z" creationid="Никита Потапов" creationdate="20221114T211723Z">
+        <seg>Отвезите клиента в &lt;teal&gt;бордель&lt;/teal&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Take the client to the &lt;teal&gt;motel&lt;/teal&gt;.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221114T211746Z" creationid="Никита Потапов" creationdate="20221114T211746Z">
-        <seg>Отвезите клиента в&lt;teal&gt;мотель&lt;/teal&gt;.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T194132Z" creationid="Никита Потапов" creationdate="20221114T211746Z">
+        <seg>Отвезите клиента в &lt;teal&gt;мотель&lt;/teal&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Take the client to the &lt;teal&gt;movie theater&lt;/teal&gt;.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221114T211949Z" creationid="Никита Потапов" creationdate="20221114T211949Z">
-        <seg>Отвезите клиента в&lt;teal&gt;кинотеатр&lt;/teal&gt;.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T194204Z" creationid="Никита Потапов" creationdate="20221114T211949Z">
+        <seg>Отвезите клиента в &lt;teal&gt;кинотеатр&lt;/teal&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Take the client to the &lt;teal&gt;riverfront&lt;/teal&gt;.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221114T211835Z" creationid="Никита Потапов" creationdate="20221114T211835Z">
-        <seg>Отвезите клиента к&lt;teal&gt;реке&lt;/teal&gt;.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T194139Z" creationid="Никита Потапов" creationdate="20221114T211835Z">
+        <seg>Отвезите клиента к &lt;teal&gt;реке&lt;/teal&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Take the client to the &lt;teal&gt;sex shop&lt;/teal&gt;.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221114T211845Z" creationid="Никита Потапов" creationdate="20221114T211845Z">
-        <seg>Отвезите клиента в&lt;teal&gt;секс-шоп&lt;/teal&gt;.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T194141Z" creationid="Никита Потапов" creationdate="20221114T211845Z">
+        <seg>Отвезите клиента в &lt;teal&gt;секс-шоп&lt;/teal&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Take the client to the &lt;teal&gt;strip club&lt;/teal&gt;.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221114T211737Z" creationid="Никита Потапов" creationdate="20221114T211737Z">
-        <seg>Отвезите клиента в&lt;teal&gt;стрип-клуб&lt;/teal&gt;.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T194128Z" creationid="Никита Потапов" creationdate="20221114T211737Z">
+        <seg>Отвезите клиента в &lt;teal&gt;стрип-клуб&lt;/teal&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38424,8 +38424,8 @@
       <tuv lang="en-US">
         <seg>That's the second time the Saints fucked us!\n2100</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221214T165918Z" creationid="Никита Потапов" creationdate="20221214T165918Z">
-        <seg>Это уже второй раз, как Святые нас разъебали!\n2100</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210432Z" creationid="Никита Потапов" creationdate="20221214T165918Z">
+        <seg>Это уже второй раз, как Святые нас наебали!\n2100</seg>
       </tuv>
     </tu>
     <tu>
@@ -39696,16 +39696,16 @@
       <tuv lang="en-US">
         <seg>The media almost has enough footage.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221114T211105Z" creationid="Никита Потапов" creationdate="20221114T211105Z">
-        <seg>Новостники уже почти собрали достаточно материала.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T194040Z" creationid="Никита Потапов" creationdate="20221114T211105Z">
+        <seg>Репортеры уже почти собрали достаточно материала.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The media wasn't watching you!</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221121T185720Z" creationid="Никита Потапов" creationdate="20221121T185720Z">
-        <seg>Медиа не собрало материала на вас!</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T063157Z" creationid="Никита Потапов" creationdate="20221121T185720Z">
+        <seg>Репортеры не собрали материала на вас!</seg>
       </tuv>
     </tu>
     <tu>
@@ -40128,8 +40128,8 @@
       <tuv lang="en-US">
         <seg>There's our boys.  Let's drop some Vice Queens.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221211T170148Z" creationid="Никита Потапов" creationdate="20221211T170148Z">
-        <seg>А вот и наши короли. Сделаем-ка из них королев.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T194518Z" creationid="Никита Потапов" creationdate="20221211T170148Z">
+        <seg>А вот и наши пацаны. Сбросим парочку Вайс Квинов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40192,8 +40192,8 @@
       <tuv lang="en-US">
         <seg>These streets were ours before those bitches from the Row showed up!  And when they stepped, what did we do?  They fucked up our race, and we just took it.  They fucked up our deliveries, and we just took it.  And now they killed my Uncle, and who knows what the fuck they did to Donnie.  Now, I'm only gonna say this once.  We're not gonna sit here and fuckin' take it.\n22100</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20230331T203529Z" creationid="Никита Потапов" creationdate="20221214T175556Z">
-        <seg>Эти улицы принадлежали нам, пока не объявились эти сучки со Двора! И когда они пришли, что сделали мы? Они сорвали нашу гонку, и мы это проглотили. Они разъебали наши поставки, и мы это проглотили. А теперь они убили моего дядю, и хуй знает, что они сделали с Донни. Значит так, говорю один раз. Мы не станем сидеть сложа руки и мы это, блядь, не проглотим.\n22100</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210821Z" creationid="Никита Потапов" creationdate="20221214T175556Z">
+        <seg>Эти улицы принадлежали нам, пока не объявились эти сучки со Двора! И когда они пришли, что сделали мы? Они разъебали нашу гонку, и мы это проглотили. Они разъебали наши поставки, и мы это проглотили. А теперь они убили моего дядю, и хуй знает, что они сделали с Донни. Значит так, говорю всего один раз. Мы не станем сидеть сложа руки и мы это, блядь, не проглотим.\n22100</seg>
       </tuv>
     </tu>
     <tu>
@@ -40520,8 +40520,8 @@
       <tuv lang="en-US">
         <seg>This is it.  We need you to cause as much mayhem as you possibly can.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221218T151203Z" creationid="Никита Потапов" creationdate="20221114T205925Z">
-        <seg>Вот оно. Мы хотим, чтобы ты устроил как можно больше хаоса.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T153139Z" creationid="Никита Потапов" creationdate="20221114T205925Z">
+        <seg>Вот он, момент истины. Мы хотим, чтобы ты устроил как можно больше хаоса.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40832,7 +40832,7 @@
       <tuv lang="en-US">
         <seg>Those rocket launchers are gonna fuck us up unless you do somethin'!</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221207T214059Z" creationid="Никита Потапов" creationdate="20221207T214059Z">
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T155936Z" creationid="Никита Потапов" creationdate="20221207T214059Z">
         <seg>Эти ракетницы вздрючат нас, если ты что-нибудь не сделаешь!</seg>
       </tuv>
     </tu>
@@ -43600,8 +43600,8 @@
       <tuv lang="en-US">
         <seg>Wait for the procession, then snipe Monroe.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221121T181635Z" creationid="Никита Потапов" creationdate="20221121T181635Z">
-        <seg>Ждите процессию, а затем снимите Монро.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T062937Z" creationid="Никита Потапов" creationdate="20221121T181635Z">
+        <seg>Ждите процессию, а затем застрелите Монро.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43728,8 +43728,8 @@
       <tuv lang="en-US">
         <seg>Warren is getting away.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221121T192610Z" creationid="Никита Потапов" creationdate="20221121T192610Z">
-        <seg>Уоррен уходит!.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T063236Z" creationid="Никита Потапов" creationdate="20221121T192610Z">
+        <seg>Уоррен уходит!</seg>
       </tuv>
     </tu>
     <tu>
@@ -43800,8 +43800,8 @@
       <tuv lang="en-US">
         <seg>Watching a movie about street racers doesn't make you a tuner, buddy!\n3500</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221213T213459Z" creationid="Никита Потапов" creationdate="20221213T213459Z">
-        <seg>Просмотр кино со стрит-рейсерами не сделает из тебя тюнера приятель!\n3500</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210140Z" creationid="Никита Потапов" creationdate="20221213T213459Z">
+        <seg>Просмотр кино со стрит-рейсерами не сделает из тебя тюнера, приятель!\n3500</seg>
       </tuv>
     </tu>
     <tu>
@@ -43976,8 +43976,8 @@
       <tuv lang="en-US">
         <seg>We done and fucked the Rollerz hard.  They ain't got nothin' left.  There are a few loose ends, though, like who the fuck those buyers are Sharp was talkin' about.  I got a feelin' there's some shit goin' on we don't know about.  I'll catch ya later at the church.\n13900</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221214T183014Z" creationid="Никита Потапов" creationdate="20221214T183014Z">
-        <seg>Мы окончательно разъебали Роллерзов. У них больше ничего не осталось. Есть, правда, несколько свободных концов, скажем, те чертовы покупатели, о которых говорил Шарп. У меня ощущение, здесь творится какая-то херня, о которой мы не знаем. Позже встретимся в церкви.\n13900</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T211110Z" creationid="Никита Потапов" creationdate="20221214T183014Z">
+        <seg>Мы окончательно разъебали Роллерзов. У них больше ничего не осталось. Есть, правда, несколько неувязок, хотя бы те чертовы покупатели, о которых говорил Шарп. У меня ощущение, здесь творится какая-то херня, о которой мы не знаем. Позже встретимся в церкви.\n13900</seg>
       </tuv>
     </tu>
     <tu>
@@ -44024,7 +44024,7 @@
       <tuv lang="en-US">
         <seg>We gotta drop those bitches with the rocket launchers!</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221207T213850Z" creationid="Никита Потапов" creationdate="20221207T213850Z">
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T155947Z" creationid="Никита Потапов" creationdate="20221207T213850Z">
         <seg>Мы должны убрать вон тех сук с ракетницами!</seg>
       </tuv>
     </tu>
@@ -44112,8 +44112,8 @@
       <tuv lang="en-US">
         <seg>We kill Tanya and I get back to business.\n3500</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221204T222558Z" creationid="Никита Потапов" creationdate="20221204T222558Z">
-        <seg>Мы убьем Таню и я вернуть в дело.\n3500</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T062118Z" creationid="Никита Потапов" creationdate="20221204T222558Z">
+        <seg>Мы убьем Таню и я вернусь в дело.\n3500</seg>
       </tuv>
     </tu>
     <tu>
@@ -44432,8 +44432,8 @@
       <tuv lang="en-US">
         <seg>Well, let's think.  The same four people knew about those jobs.  If I didn't sell us out, and you didn't sell us out, who else is there?\n10600</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20230226T212114Z" creationid="Никита Потапов" creationdate="20221214T170048Z">
-        <seg>Что ж, давай прикинем. Те же четверо человек знали об этих делах. Если я не продал нас, и ты не продал нас, то кто же еще?\n10600</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210556Z" creationid="Никита Потапов" creationdate="20221214T170048Z">
+        <seg>Что ж, давай прикинем. О наших делах знают только четверо. Если я не продал нас, и если ты не продал нас, то кто же еще?\n10600</seg>
       </tuv>
     </tu>
     <tu>
@@ -44592,8 +44592,8 @@
       <tuv lang="en-US">
         <seg>Whaddya say we head downtown and show 'em what we think of modern art?\n4100</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221211T214153Z" creationid="Никита Потапов" creationdate="20221211T214153Z">
-        <seg>Как насчет того, чтобы съездить в нижний город и выразить наше мнение к современному искусству?\n4100</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T061354Z" creationid="Никита Потапов" creationdate="20221211T214153Z">
+        <seg>Как насчет того, чтобы съездить в нижний город и выразить наше мнение о современном искусстве?\n4100</seg>
       </tuv>
     </tu>
     <tu>
@@ -45224,7 +45224,7 @@
       <tuv lang="en-US">
         <seg>Where the fuck did they get rocket launchers?</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20230331T203204Z" creationid="Никита Потапов" creationdate="20221207T213819Z">
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T155954Z" creationid="Никита Потапов" creationdate="20221207T213819Z">
         <seg>Где, блядь, они раздобыли ракетницы?</seg>
       </tuv>
     </tu>
@@ -46456,8 +46456,8 @@
       <tuv lang="en-US">
         <seg>Yeah, well, we might have to rethink that plan.\n2700</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221214T175801Z" creationid="Никита Потапов" creationdate="20221214T175745Z">
-        <seg>Ну, что ж, нам придется этот план переделать.\n2700</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210900Z" creationid="Никита Потапов" creationdate="20221214T175745Z">
+        <seg>Ну, что ж, нам придется этот план пересмотреть.\n2700</seg>
       </tuv>
     </tu>
     <tu>
@@ -47040,8 +47040,8 @@
       <tuv lang="en-US">
         <seg>You can have up to three Homies.  Press &lt;btn recruit&gt; to recruit. </seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221106T211739Z" creationid="Никита Потапов" creationdate="20221106T211739Z">
-        <seg>Теперь вы можете взять с собой до трех корешей. Нажмите &lt;btn recruit&gt; для вербовки.&lt;сегмент 1</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T184200Z" creationid="Никита Потапов" creationdate="20221106T211739Z">
+        <seg>Теперь вы можете взять с собой до трех корешей. Нажмите &lt;btn recruit&gt; для вербовки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47464,8 +47464,8 @@
       <tuv lang="en-US">
         <seg>You did good, but I'm not through with you yet.  Those cars you stole have been rigged to blow once the engine reaches a high enough temperature.  I need you to make sure those cars get nice and hot.  There's a race going down in Chinatown tonight, and I think you should give them some tough competition.  I know these guys.  If you're in the lead for the final stretch, they're gonna hit the nitrous to blow past you.  When they do, boom.  As soon as those cars are wrecked, get the hell outta there.  You're no good to us dead.\n30100</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20230226T212114Z" creationid="Никита Потапов" creationdate="20221213T211930Z">
-        <seg>Ты хорошо поработал, но с тобой я еще не закончила. Те машины, что ты украл, были настроены так, что они взорвутся, как только двигатель разогреется до нужной температуры. Мне нужно, чтобы ты подал эти машины горяченькими. Сегодня в Китайском квартале будет гонка, и я думаю, тебе следует составить им конкуренцию. Я знаю этих парней. Если ты вырвешься вперед на последнем отрезке, они выжмут нитро, чтоб пролететь рядом с тобой. И в этот момент - бух. Как только с машинами будет покончена, выбирайся оттуда. Мертвым ты нам не нужен.\n30100</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241019T210033Z" creationid="Никита Потапов" creationdate="20221213T211930Z">
+        <seg>Ты хорошо поработал, но с тобой я еще не закончила. Те машины, что ты украл, были настроены так, что они взорвутся, как только двигатель разогреется до нужной температуры. Мне нужно, чтобы ты подал эти машины горяченькими. Сегодня в Китайском квартале будет гонка, и я думаю, тебе следует составить им конкуренцию. Я знаю этих парней. Если ты вырвешься вперед на последнем отрезке, они выжмут нитро, чтоб пролететь рядом с тобой. И в этот момент - бух. Как только с машинами будет покончено, выбирайся оттуда. Мертвым ты нам не нужен.\n30100</seg>
       </tuv>
     </tu>
     <tu>
@@ -48024,8 +48024,8 @@
       <tuv lang="en-US">
         <seg>You got too far from the newsvan.  Go back and get it.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221121T185648Z" creationid="Никита Потапов" creationdate="20221121T185648Z">
-        <seg>Вы слишком далеко от новостного фургона. Подойдите поближе.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T063127Z" creationid="Никита Потапов" creationdate="20221121T185648Z">
+        <seg>Вы слишком далеко от репортерского фургона. Подойдите поближе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48136,8 +48136,8 @@
       <tuv lang="en-US">
         <seg>You have 1 week left to pay off your loan.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221114T213237Z" creationid="Никита Потапов" creationdate="20221114T213202Z">
-        <seg>У вас осталось %d нед. на выплату долга.&lt;сегмент 2138 ¶&gt;</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T153047Z" creationid="Никита Потапов" creationdate="20221114T213202Z">
+        <seg>У вас осталось %d нед. на выплату долга.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48720,8 +48720,8 @@
       <tuv lang="en-US">
         <seg>You killed Stefan before he talked.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221121T193223Z" creationid="Никита Потапов" creationdate="20221121T193223Z">
-        <seg>Ты убил Степана прежде, чем он заговорил.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T063313Z" creationid="Никита Потапов" creationdate="20221121T193223Z">
+        <seg>Ты убил Стефана прежде, чем он заговорил.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48824,8 +48824,8 @@
       <tuv lang="en-US">
         <seg>You let the media die!</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221121T185701Z" creationid="Никита Потапов" creationdate="20221121T185701Z">
-        <seg>Ты позволил новостникам умереть!</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T063135Z" creationid="Никита Потапов" creationdate="20221121T185701Z">
+        <seg>Ты позволил репортерам умереть!</seg>
       </tuv>
     </tu>
     <tu>
@@ -49200,8 +49200,8 @@
       <tuv lang="en-US">
         <seg>You need to lose the &lt;red&gt;stalker&lt;/red&gt; before you can drop off Aisha.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221121T182804Z" creationid="Никита Потапов" creationdate="20221121T182804Z">
-        <seg>Вы должны избавиться от &lt;red&gt;сталкера&lt;/red&gt;, прежде чем вы сможете сбросить Аишу.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241013T063016Z" creationid="Никита Потапов" creationdate="20221121T182804Z">
+        <seg>Вы должны избавиться от &lt;red&gt;сталкера&lt;/red&gt;, прежде чем вы сможете высадить Аишу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50072,8 +50072,8 @@
       <tuv lang="en-US">
         <seg>You're losing them.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221114T183404Z" creationid="Никита Потапов" creationdate="20221114T183404Z">
-        <seg>Ты теряешь их. Поддай газу!.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T153220Z" creationid="Никита Потапов" creationdate="20221114T183404Z">
+        <seg>Ты теряешь их. Поддай газу!</seg>
       </tuv>
     </tu>
     <tu>
@@ -50248,8 +50248,8 @@
       <tuv lang="en-US">
         <seg>You've been spotted. Take them out.</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20221114T183504Z" creationid="Никита Потапов" creationdate="20221114T183504Z">
-        <seg>Тебя заметили. Выкури их!.</seg>
+      <tuv lang="ru-RU" changeid="Никита Потапов" changedate="20241005T153211Z" creationid="Никита Потапов" creationdate="20221114T183504Z">
+        <seg>Тебя заметили. Выкури их!</seg>
       </tuv>
     </tu>
     <tu>
